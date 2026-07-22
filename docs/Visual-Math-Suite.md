@@ -1,4 +1,3 @@
-```markdown
 # VisualMath (AP/TG Interactive Math Suite)
 ## Comprehensive Application Development Action Plan & Technical Specification
 
@@ -693,7 +692,3 @@ The backend will exclusively return the following JSON structure for all non-2xx
 | `E_FEATURE_DISABLED` | 403 | Feature flag off for school | Hide UI element |
 | `E_RATE_LIMITED` | 429 | Too many simulation requests | Show "Slow down" toast |
 | `E_SUBDOMAIN_NOT_FOUND`| 404 | School does not exist | Redirect to main landing page |
-
----
-**END OF DOCUMENT**
-```
